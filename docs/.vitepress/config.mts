@@ -21,6 +21,7 @@ export default defineConfig({
       {
         text: "Conteúdo",
         items: [
+          { text: "Importante antes de começar", link: "/important-to-know" },
           {
             text: "Desafios",
             link: "/challenges",
@@ -31,16 +32,16 @@ export default defineConfig({
               { text: "Funções", link: "/challenges/functions" },
             ],
           },
-        ],
-      },
-      {
-        text: "Code Review Invertido",
-        link: "/reversed-code-review",
-        items: [
-          { text: "Variáveis", link: "/reversed-code-review/variables" },
-          { text: "Objetos", link: "/reversed-code-review/objects" },
-          { text: "Arrays", link: "/reversed-code-review/arrays" },
-          { text: "Funções", link: "/reversed-code-review/functions" },
+          {
+            text: "Code Review Invertido",
+            link: "/reversed-code-review",
+            items: [
+              { text: "Variáveis", link: "/reversed-code-review/variables" },
+              { text: "Objetos", link: "/reversed-code-review/objects" },
+              { text: "Arrays", link: "/reversed-code-review/arrays" },
+              { text: "Funções", link: "/reversed-code-review/functions" },
+            ],
+          },
         ],
       },
     ],

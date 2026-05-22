@@ -1,3 +1,7 @@
+# Objetos
+
+Essa página possui alguns trechos de código com bugs. analise cada um, descreva o bug e arrume
+
 ## 🟢 Bug 1
 
 ```javascript
