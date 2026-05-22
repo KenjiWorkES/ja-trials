@@ -15,11 +15,10 @@ hero:
       link: /reversed-code-review
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Faça os desafios na pratica!
+    details: faça todos eles em ordem e com calma, preste atenção em cada detalhe
+  - title: Os code Reviews te ajudarão a procurar bugs
+    details: os code reviews te ajudarão a encontrar e corrigir bugs no código, e também a entender porque eles acontecem
+  - title: Qualquer duvida fale com o seu tutor
+    details: não tenha medo de perguntar e pedir ajuda, estamos aqui para ajudar você a aprender e se desenvolver
 ---
-
