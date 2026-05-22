@@ -5,7 +5,7 @@ export default defineConfig({
   title: "JA Trials",
   lang: "pt-BR",
   description: "Desafios para o JA da valtech",
-  base: "/ja-trial",
+  base: "/ja-trials/",
   themeConfig: {
     docFooter: {
       prev: "Página anterior",
