@@ -8,6 +8,9 @@ hero:
   tagline: Vamos utilizar esse site para ajudar o nosso jovem aprendiz na sua jornada de aprendizado.
   actions:
     - theme: brand
+      text: Começar
+      link: /important-to-know
+    - theme: alt
       text: Desafios
       link: /challenges
     - theme: alt

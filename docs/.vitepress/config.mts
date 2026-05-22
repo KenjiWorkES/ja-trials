@@ -14,6 +14,7 @@ export default defineConfig({
     outlineTitle: "Nesta página",
     nav: [
       { text: "Home", link: "/" },
+      { text: "Importante antes de começar", link: "/important-to-know" },
       { text: "Desafios", link: "/challenges" },
       { text: "Code Review Invertido", link: "/reversed-code-review" },
     ],
